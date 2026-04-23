@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Solapure
 
-<!--
-**Sumitsolapure/Sumitsolapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Data Analyst
 
-Here are some ideas to get you started:
+- 📊 Skilled in SQL, Power BI, and Excel  
+- 📈 Built dashboards for sales, marketing, and business insights  
+- 💡 Passionate about turning data into actionable insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills
+- SQL  
+- Power BI  
+- Excel  
+- Data Analysis  
+
+---
+
+## 📊 Projects
+- 📌 Sales Dashboard (Power BI)  
+- 📌 Prime Video Analysis  
+- 📌 Ecommerce Excel Dashboard  
+- 📌 SQL Sales Analysis  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/sumit-solapure-553756278
+- GitHub: https://github.com/Sumitsolapure
