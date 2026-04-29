@@ -2,7 +2,7 @@
 
 ## 🚀 Data Analyst
 
-- 📊 Skilled in SQL, Power BI, and Excel  
+- 📊 Skilled in SQL, Power BI, Tableau and Excel  
 - 📈 Built dashboards for sales, marketing, and business insights  
 - 💡 Passionate about turning data into actionable insights  
 
