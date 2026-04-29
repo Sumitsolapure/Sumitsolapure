@@ -21,7 +21,7 @@
 - 📌 Prime Video Analysis  
 - 📌 Ecommerce Excel Dashboard  
 - 📌 SQL Sales Analysis  
-
+- 📌 Upskill Sales Dashboard
 ---
 
 ## 📫 Connect with me
